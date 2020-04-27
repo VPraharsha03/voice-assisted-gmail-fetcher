@@ -1,6 +1,4 @@
 #Credits: Vivek Praharsha
-#Ported from Python2
-#Enable Less secure app access in gmail security settings & IMAP to allow access to mails
 
 #Standard library modules
 import sys
@@ -17,7 +15,6 @@ import subprocess
 
 from bs4 import BeautifulSoup
 import html5lib
-import traceback
 
 #offline TTS module
 import pyttsx3
@@ -156,7 +153,6 @@ while True:
 					break
 		except TypeError as e:
 			print(e)
-			traceback.print_exc()
 			print("In-correct mailbox, try again!")
 			speak("In-correct mailbox, try again!")
 			continue
