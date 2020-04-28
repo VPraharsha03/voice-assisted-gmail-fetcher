@@ -5,3 +5,5 @@ written in Python that fetches and displays mails based on verbal commands.
 ## Instructions:
 * Enable IMAP for Gmail account
 * Allow Less Secure Apps in Gmail
+
+[Check out Search Keys](https://tools.ietf.org/html/rfc3501.html#section-6.4.4) to filter mail search 
