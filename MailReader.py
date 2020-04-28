@@ -56,7 +56,6 @@ def process_mailbox(M):
 			msg = email.message_from_bytes(data[0][1])
 			print('Message %s: %s' % (num.decode(), msg['Subject']))
 			print('Raw Date:', msg['Date'])
-			#str_body_obj = str(msg.get_payload(0))
 			str_body_obj = get_body(msg)
 			soup = BeautifulSoup(str_body_obj,'html5lib').text
 			print(soup)
