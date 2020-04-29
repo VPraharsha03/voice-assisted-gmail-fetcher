@@ -1,6 +1,6 @@
 # Voice Assisted Mail Reader
-A voice assisted mail reader based on IMAP and Google Web Speech API 
-written in Python that fetches and displays mails based on verbal commands.
+A voice assisted mail reader based on IMAP email protocol and Google Web Speech API 
+written in Python that fetches and displays mails from a label/mailbox based on verbal commands.
 
 ## Instructions:
 * Enable IMAP for Gmail account
