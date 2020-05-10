@@ -14,6 +14,20 @@ The following Python modules (available via pip):
 * Enable IMAP for Gmail account
 * Allow Less Secure Apps in Gmail
 
+## Screenshots:
+**User Authentication:**
+
+![image](screenshots/1.PNG)
+**List out mailboxes/labels:**
+
+![image](screenshots/2.png)
+**Selecting mailbox (Voice input)**
+
+![image](screenshots/3.PNG)
+**Fetch and display all messages from selected mailbox/label:**
+
+![image](screenshots/4.png)
+
 ## Acknowledgments
 Thanks for the suggestion [@eivl](https://github.com/eivl)
 
