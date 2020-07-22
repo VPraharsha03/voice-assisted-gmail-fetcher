@@ -10,9 +10,13 @@ The following Python modules (available via pip):
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 * [html5lib](https://html5lib.readthedocs.io/en/latest/)
 
+* [Get the relevant PyAudio wheel package for your Python3 version](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
+* [Get the relevant Python Levenshtein wheel for your Python3 version](https://www.lfd.uci.edu/~gohlke/pythonlibs/#python-levenshtein)
+
 ## Instructions:
 * Enable IMAP for Gmail account
 * Allow Less Secure Apps in Gmail
+* requirements.txt is included, use ``pip install -r requirements.txt``
 
 ## Screenshots:
 **User Authentication:**
