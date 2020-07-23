@@ -1,3 +1,4 @@
+[![made-with-python](https://img.shields.io/badge/Python-3.7.3-blue.svg)](https://www.python.org/downloads/release/python-373/)
 # Voice Assisted Mail Fetcher For Gmail
 Fetch and Display mails from a label/mailbox using voice. Based on IMAP email protocol and Google Web Speech API 
 written in Python.
@@ -35,4 +36,5 @@ The following Python modules (available via pip):
 ## Acknowledgments
 Thanks for the suggestion [@eivl](https://github.com/eivl)
 
+## Refer
 [Check Out Search Keys](https://tools.ietf.org/html/rfc3501.html#section-6.4.4) to filter mail search 
